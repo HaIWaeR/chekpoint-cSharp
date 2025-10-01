@@ -10,9 +10,6 @@ namespace Drive
     {
         static void Main(string[] args)
         {
-
-            Console.WriteLine("Эта строчка в обще не нужна, я просто тестирую комит )");
-
             Driver frirstCar = new Driver(60, 1000);
 
             // 1000 км
