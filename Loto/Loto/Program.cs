@@ -14,6 +14,7 @@ namespace Lotto
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
             Console.WriteLine("\n\nИгра 1");
             Lotto loto1 = new Lotto();
             for (int i = 0; i < 50; i++)
