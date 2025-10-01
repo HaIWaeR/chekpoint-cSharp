@@ -14,14 +14,14 @@ namespace Drive
         private int CarСoordinate;
         private double TechnicalCondition = 100;
 
-        public int StartСityN1 = 1010;
-        public int EndСityN1 = 1020;
-        
-        public int StartСityN2 = 3565;
-        public int EndСityN2 = 3580;
-        
-        public int StartСityN3 = -2500;
-        public int EndСityN3 = -2530;
+        private readonly int StartСityN1 = 1010;
+        private readonly int EndСityN1 = 1020;
+
+        private readonly int StartСityN2 = 3565;
+        private readonly int EndСityN2 = 3580;
+
+        private readonly int StartСityN3 = -2500;
+        private readonly int EndСityN3 = -2530;
 
 
         public void Drive(int travelTime)

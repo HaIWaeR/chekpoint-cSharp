@@ -6,3 +6,11 @@ C:\Users\argument\source\repos\Drive\Drive\obj\Debug\Drive.csproj.CoreCompileInp
 C:\Users\argument\source\repos\Drive\Drive\obj\Debug\Drive.exe
 C:\Users\argument\source\repos\Drive\Drive\obj\Debug\Drive.pdb
 C:\Users\argument\source\repos\Drive\Drive\obj\Debug\Drive.exe.config
+C:\Users\argument\OneDrive\Рабочий стол\chekpoint-cSharp\Drive\Drive\bin\Debug\Drive.exe.config
+C:\Users\argument\OneDrive\Рабочий стол\chekpoint-cSharp\Drive\Drive\bin\Debug\Drive.exe
+C:\Users\argument\OneDrive\Рабочий стол\chekpoint-cSharp\Drive\Drive\bin\Debug\Drive.pdb
+C:\Users\argument\OneDrive\Рабочий стол\chekpoint-cSharp\Drive\Drive\obj\Debug\Drive.csproj.AssemblyReference.cache
+C:\Users\argument\OneDrive\Рабочий стол\chekpoint-cSharp\Drive\Drive\obj\Debug\Drive.exe.config
+C:\Users\argument\OneDrive\Рабочий стол\chekpoint-cSharp\Drive\Drive\obj\Debug\Drive.csproj.CoreCompileInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\chekpoint-cSharp\Drive\Drive\obj\Debug\Drive.exe
+C:\Users\argument\OneDrive\Рабочий стол\chekpoint-cSharp\Drive\Drive\obj\Debug\Drive.pdb

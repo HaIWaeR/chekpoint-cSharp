@@ -10,24 +10,22 @@ namespace Drive
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
-
-            Driver frirstCar = new Driver(60, 1000);
+            Driver firstCar = new Driver(60, 1000);
 
             // 1000 км
-            frirstCar.PrintLocation();
-            
+            firstCar.PrintLocation();
+
             // 1360 км
-            frirstCar.Drive(6);
-            frirstCar.PrintLocation();
+            firstCar.Drive(6);
+            firstCar.PrintLocation();
 
             // 1180 км
-            frirstCar.DriveBack(3);
-            frirstCar.PrintLocation();
+            firstCar.DriveBack(3);
+            firstCar.PrintLocation();
 
             // Вы в горде №2
-            frirstCar.Drive(40);
-            frirstCar.PrintLocation();
+            firstCar.Drive(40);
+            firstCar.PrintLocation();
         }
     }
 }
