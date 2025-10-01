@@ -10,6 +10,8 @@ namespace Drive
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
+
             Driver frirstCar = new Driver(60, 1000);
 
             // 1000 км
