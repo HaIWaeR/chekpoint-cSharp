@@ -10,6 +10,8 @@ namespace SchoolInformation
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
+
             Student vasi = new Student("Виталий", "Папков", 5, "23.11.4");
 
             vasi.PrintInfo();
