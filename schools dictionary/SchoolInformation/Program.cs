@@ -12,9 +12,11 @@ namespace SchoolInformation
         {
             Console.WriteLine();
 
-            Student vasi = new Student("Виталий", "Папков", 5, "23.11.4");
+            Student studen1 = new Student("Виталий", "Папков", 5, "23.11.4");
 
-            vasi.PrintInfo();
+            studen1.PrintInfo();
+
+
         }
     }
 
@@ -35,24 +37,21 @@ namespace SchoolInformation
 
     class Student
     {
-        public string FirstName;
-        public string LastName;
-        public double AverageGrade;
-        public string Class;
-        public Student(string firstName, string lastName, double averageGrade, string studentClass)
+        public readonly string _firstName;
+        public readonly string _lastName;
+        public readonly double _averageGrade;
+        public readonly string _className;
+        public Student(string firstName, string lastName, double averageGrade, string className)
         {
-            FirstName = firstName;
-            LastName = lastName;
-            AverageGrade = averageGrade;
-            Class = studentClass;
+            _firstName = firstName;
+            _lastName = lastName;
+            _averageGrade = averageGrade;
+            _className = className;
         }
         public void PrintInfo()
         {
-            Console.WriteLine($"Ученик: {FirstName} {LastName}, средняя оценка: " +
-                $"{AverageGrade}, класс: {Class}");
+            Console.WriteLine($"Ученик: {_firstName} {_lastName}, средняя оценка: " +
+                $"{_averageGrade}, класс: {_className}");
         }
     }
-
-
-
 }
