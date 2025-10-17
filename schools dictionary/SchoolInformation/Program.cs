@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -17,18 +18,26 @@ namespace SchoolInformation
             studen1.PrintInfo();
 
 
+            School OneTwoOne = new School();
+            OneTwoOne.EnrollStudent(studen1);
+
         }
     }
 
 
     class School
     {
-        public void EnrollStudent()
+        public readonly Dictionary<string, List<Student>> _listOfStudents = new Dictionary<string, List<Student>>();
+
+        public void EnrollStudent(Student student)
         {
+            if (_listOfStudents.ContainsKey(student._className))
+            {
+                    _listOfStudents[student._className].Add(student);
+            }
+        }   
 
-        }
-
-        public void PrintClassInfo()
+        public void PrintClassInfo(string className)
         {
 
         }
@@ -50,8 +59,9 @@ namespace SchoolInformation
         }
         public void PrintInfo()
         {
-            Console.WriteLine($"Ученик: {_firstName} {_lastName}, средняя оценка: " +
-                $"{_averageGrade}, класс: {_className}");
+
+            Console.WriteLine($"Ученик: {_firstName ?? "Нет данных"} {_lastName ?? "Нет данных"}, " +
+            $"средняя оценка: {_averageGrade}, класс: {_className ?? "Нет данных"}");
         }
     }
 }
