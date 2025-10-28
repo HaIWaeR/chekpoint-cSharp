@@ -22,6 +22,7 @@ namespace Drive
 
         private readonly int _startСityN3 = -2500;
         private readonly int _endСityN3 = -2530;
+
         public Driver(int averageСarSpeed, int carСoordinate)
         {
             AverageСarSpeed = averageСarSpeed;

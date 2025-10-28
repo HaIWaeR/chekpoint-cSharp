@@ -1,0 +1,14 @@
+C:\Users\argument\source\repos\SchoolCollection\SchoolCollection\bin\Debug\net9.0\SchoolCollection.exe
+C:\Users\argument\source\repos\SchoolCollection\SchoolCollection\bin\Debug\net9.0\SchoolCollection.deps.json
+C:\Users\argument\source\repos\SchoolCollection\SchoolCollection\bin\Debug\net9.0\SchoolCollection.runtimeconfig.json
+C:\Users\argument\source\repos\SchoolCollection\SchoolCollection\bin\Debug\net9.0\SchoolCollection.dll
+C:\Users\argument\source\repos\SchoolCollection\SchoolCollection\bin\Debug\net9.0\SchoolCollection.pdb
+C:\Users\argument\source\repos\SchoolCollection\SchoolCollection\obj\Debug\net9.0\SchoolCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argument\source\repos\SchoolCollection\SchoolCollection\obj\Debug\net9.0\SchoolCollection.AssemblyInfoInputs.cache
+C:\Users\argument\source\repos\SchoolCollection\SchoolCollection\obj\Debug\net9.0\SchoolCollection.AssemblyInfo.cs
+C:\Users\argument\source\repos\SchoolCollection\SchoolCollection\obj\Debug\net9.0\SchoolCollection.csproj.CoreCompileInputs.cache
+C:\Users\argument\source\repos\SchoolCollection\SchoolCollection\obj\Debug\net9.0\SchoolCollection.dll
+C:\Users\argument\source\repos\SchoolCollection\SchoolCollection\obj\Debug\net9.0\refint\SchoolCollection.dll
+C:\Users\argument\source\repos\SchoolCollection\SchoolCollection\obj\Debug\net9.0\SchoolCollection.pdb
+C:\Users\argument\source\repos\SchoolCollection\SchoolCollection\obj\Debug\net9.0\SchoolCollection.genruntimeconfig.cache
+C:\Users\argument\source\repos\SchoolCollection\SchoolCollection\obj\Debug\net9.0\ref\SchoolCollection.dll

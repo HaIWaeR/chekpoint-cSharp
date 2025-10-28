@@ -35,10 +35,7 @@ namespace Lotto
             else
                 numberStatistics[returnNumber] = 1;
             return returnNumber;
-
-
         }
-
         public static void PrintGamesStats()
         {
             if (numberStatistics.Count == 0)
