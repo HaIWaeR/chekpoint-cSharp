@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\argument\\source\\repos\\SchoolCollection\\",
+  "WorkspaceRootPath": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\chekpoint-cSharp\\SchoolCollection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEAC2F5A-7E36-442A-8E6F-541B10E987B2}|SchoolCollection\\SchoolCollection.csproj|c:\\users\\argument\\source\\repos\\schoolcollection\\schoolcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEAC2F5A-7E36-442A-8E6F-541B10E987B2}|SchoolCollection\\SchoolCollection.csproj|solutionrelative:schoolcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEAC2F5A-7E36-442A-8E6F-541B10E987B2}|SchoolCollection\\SchoolCollection.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\chekpoint-csharp\\schoolcollection\\schoolcollection\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAC2F5A-7E36-442A-8E6F-541B10E987B2}|SchoolCollection\\SchoolCollection.csproj|solutionrelative:schoolcollection\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEAC2F5A-7E36-442A-8E6F-541B10E987B2}|SchoolCollection\\SchoolCollection.csproj|c:\\users\\argument\\source\\repos\\schoolcollection\\schoolcollection\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FEAC2F5A-7E36-442A-8E6F-541B10E987B2}|SchoolCollection\\SchoolCollection.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\chekpoint-csharp\\schoolcollection\\schoolcollection\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEAC2F5A-7E36-442A-8E6F-541B10E987B2}|SchoolCollection\\SchoolCollection.csproj|solutionrelative:schoolcollection\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEAC2F5A-7E36-442A-8E6F-541B10E987B2}|SchoolCollection\\SchoolCollection.csproj|c:\\users\\argument\\source\\repos\\schoolcollection\\schoolcollection\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEAC2F5A-7E36-442A-8E6F-541B10E987B2}|SchoolCollection\\SchoolCollection.csproj|solutionrelative:schoolcollection\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEAC2F5A-7E36-442A-8E6F-541B10E987B2}|SchoolCollection\\SchoolCollection.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\chekpoint-csharp\\schoolcollection\\schoolcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAC2F5A-7E36-442A-8E6F-541B10E987B2}|SchoolCollection\\SchoolCollection.csproj|solutionrelative:schoolcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,54 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "School.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\chekpoint-cSharp\\SchoolCollection\\SchoolCollection\\School.cs",
+              "RelativeDocumentMoniker": "SchoolCollection\\School.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\chekpoint-cSharp\\SchoolCollection\\SchoolCollection\\School.cs",
+              "RelativeToolTip": "SchoolCollection\\School.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T21:40:23.58Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "School.cs",
-              "DocumentMoniker": "C:\\Users\\argument\\source\\repos\\SchoolCollection\\SchoolCollection\\School.cs",
-              "RelativeDocumentMoniker": "SchoolCollection\\School.cs",
-              "ToolTip": "C:\\Users\\argument\\source\\repos\\SchoolCollection\\SchoolCollection\\School.cs",
-              "RelativeToolTip": "SchoolCollection\\School.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T21:40:23.58Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\argument\\source\\repos\\SchoolCollection\\SchoolCollection\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\chekpoint-cSharp\\SchoolCollection\\SchoolCollection\\Student.cs",
               "RelativeDocumentMoniker": "SchoolCollection\\Student.cs",
-              "ToolTip": "C:\\Users\\argument\\source\\repos\\SchoolCollection\\SchoolCollection\\Student.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\chekpoint-cSharp\\SchoolCollection\\SchoolCollection\\Student.cs",
               "RelativeToolTip": "SchoolCollection\\Student.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T20:00:11.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\argument\\source\\repos\\SchoolCollection\\SchoolCollection\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\chekpoint-cSharp\\SchoolCollection\\SchoolCollection\\Program.cs",
               "RelativeDocumentMoniker": "SchoolCollection\\Program.cs",
-              "ToolTip": "C:\\Users\\argument\\source\\repos\\SchoolCollection\\SchoolCollection\\Program.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\chekpoint-cSharp\\SchoolCollection\\SchoolCollection\\Program.cs",
               "RelativeToolTip": "SchoolCollection\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T19:21:39.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T19:21:39.837Z"
             }
           ]
         }

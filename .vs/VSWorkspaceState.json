@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Drive",
-    "\\Loto",
-    "\\schools dictionary",
-    "\\schools dictionary\\SchoolInformation"
+    "\\SchoolCollection",
+    "\\SchoolCollection\\SchoolCollection"
   ],
-  "SelectedNode": "\\Drive\\Drive.sln",
+  "SelectedNode": "\\SchoolCollection\\SchoolCollection\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

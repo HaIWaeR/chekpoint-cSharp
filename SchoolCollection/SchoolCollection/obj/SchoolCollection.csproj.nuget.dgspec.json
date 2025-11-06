@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\argument\\source\\repos\\SchoolCollection\\SchoolCollection\\SchoolCollection.csproj": {}
+    "C:\\Users\\argument\\OneDrive\\Рабочий стол\\chekpoint-cSharp\\SchoolCollection\\SchoolCollection\\SchoolCollection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\argument\\source\\repos\\SchoolCollection\\SchoolCollection\\SchoolCollection.csproj": {
+    "C:\\Users\\argument\\OneDrive\\Рабочий стол\\chekpoint-cSharp\\SchoolCollection\\SchoolCollection\\SchoolCollection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\argument\\source\\repos\\SchoolCollection\\SchoolCollection\\SchoolCollection.csproj",
+        "projectUniqueName": "C:\\Users\\argument\\OneDrive\\Рабочий стол\\chekpoint-cSharp\\SchoolCollection\\SchoolCollection\\SchoolCollection.csproj",
         "projectName": "SchoolCollection",
-        "projectPath": "C:\\Users\\argument\\source\\repos\\SchoolCollection\\SchoolCollection\\SchoolCollection.csproj",
+        "projectPath": "C:\\Users\\argument\\OneDrive\\Рабочий стол\\chekpoint-cSharp\\SchoolCollection\\SchoolCollection\\SchoolCollection.csproj",
         "packagesPath": "C:\\Users\\argument\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\argument\\source\\repos\\SchoolCollection\\SchoolCollection\\obj\\",
+        "outputPath": "C:\\Users\\argument\\OneDrive\\Рабочий стол\\chekpoint-cSharp\\SchoolCollection\\SchoolCollection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

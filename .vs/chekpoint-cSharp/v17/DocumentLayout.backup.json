@@ -38,11 +38,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -52,7 +52,6 @@
               "RelativeDocumentMoniker": "schools dictionary\\SchoolInformation\\Student.cs",
               "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\chekpoint-cSharp\\schools dictionary\\SchoolInformation\\Student.cs",
               "RelativeToolTip": "schools dictionary\\SchoolInformation\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T19:11:13.194Z"
             },
@@ -64,7 +63,6 @@
               "RelativeDocumentMoniker": "schools dictionary\\SchoolInformation\\Program.cs",
               "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\chekpoint-cSharp\\schools dictionary\\SchoolInformation\\Program.cs",
               "RelativeToolTip": "schools dictionary\\SchoolInformation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T18:56:06.725Z"
             }

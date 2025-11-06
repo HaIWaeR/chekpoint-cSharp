@@ -13,7 +13,7 @@ namespace SchoolCollection
 
         public void EnrollStudent(Student student)
         {
-            string className = student._class;
+            string className = student.ClassNumber;
             
             if (!_classes.ContainsKey(className))
             {

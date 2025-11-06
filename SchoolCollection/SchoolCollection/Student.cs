@@ -8,11 +8,11 @@ namespace SchoolCollection
 {
     internal class Student
     {
-        public readonly string _name;
-        public readonly string _lastName;
-        public readonly double _averageGrade;
-        public readonly string _class;
-
+        private readonly string _name;
+        private readonly string _lastName;
+        private readonly double _averageGrade;
+        private readonly string _class;
+        public string ClassNumber => _class;
         public Student(string name, string lastName, double averageGrade, string @class)
         {
             _name = name;
